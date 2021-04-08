@@ -2,7 +2,7 @@
  
 You must address the following in order for your assignment to be considered complete:
 
-*Depending on how you count, there are at least six bugs in the SimpleCalculator code. In an absolute sense, it's more, but in many cases if you find one of the bugs in my count of six, then you've probably discovered other similar bugs. Additionally, some bugs may not be apparent until you've fixed other bugs, so make sure you examine the app carefully at each stage. For your code to be considered 100% complete, you must fix at least four of these bugs (Note that grading for this component is captured by the 'Verification' category in the rubric).
+* Depending on how you count, there are at least six bugs in the SimpleCalculator code. In an absolute sense, it's more, but in many cases if you find one of the bugs in my count of six, then you've probably discovered other similar bugs. Additionally, some bugs may not be apparent until you've fixed other bugs, so make sure you examine the app carefully at each stage. For your code to be considered 100% complete, you must fix at least four of these bugs (Note that grading for this component is captured by the 'Verification' category in the rubric).
 
 For at least two distinct bugs: Finding bugs is an exploratory process, and since the app is 'working', you must find the edge cases that produce the bug. Once you have done so, you should use the four-step procedure outlined in Reading 11: Debugging to identify the source of the bug and fix it. This process - including outlining your process for all four steps must be described in your README.md file, including:
 1. Study the data: Outline the exploratory approach you've taken (by using the app) to find the bug.
